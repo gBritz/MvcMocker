@@ -194,3 +194,6 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+
+# Arquivo que o Mac cria quando mexe em pastas. (segundo Bernarndo - nem intendo ;)
+.DS_Store
