@@ -5,8 +5,8 @@ skip_tags: true
 configuration: Release
 
 install:
-  - choco install opencover -source https://nuget.org/api/v2/
-  - choco install coveralls.io -source https://nuget.org/api/v2/
+  - cinst opencover -source https://nuget.org/api/v2/
+  - cinst install coveralls.io -source https://nuget.org/api/v2/
 
 branches:
   only:
